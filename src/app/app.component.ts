@@ -3,7 +3,7 @@ import { HttpClient } from '@angular/common/http';
 
 import * as $ from 'jquery'; /* Para usar o $ */
 import 'datatables.net';
-import 'datatables.net-bs4'; /* datatables com ui do bootstrap */
+import 'datatables.net-dt'; /* datatables com ui do bootstrap */
 
 @Component({
   selector: 'app-root',
